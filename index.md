@@ -1,12 +1,14 @@
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-NT94ETE15H"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NT94ETE15H"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
 
-  gtag('config', 'G-NT94ETE15H');
-</script>
+   gtag('config', 'G-NT94ETE15H');
+   </script>
+</head>
 
 # Welcome to Arthur, the AI Art Curator
 
