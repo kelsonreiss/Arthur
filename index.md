@@ -1,4 +1,6 @@
-# Finding unique and curated art can be hard. It doesn't have to be. 
+# Welcome to Arthur, an AI Art Curator
+
+## Finding unique and curated art can be hard. It doesn't have to be. 
 
 ![pexels-daria-shevtsova-3597326](https://user-images.githubusercontent.com/24867764/96948211-f18c7d00-1499-11eb-9027-9fed21ab8711.jpg)
 
