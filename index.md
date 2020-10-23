@@ -21,11 +21,6 @@ If you want a specific Picasso print, stop reading and go to Art.com or Amazon.
 
 If not, these marketplaces with 200,000+ pieces can be **overwhelming.**
 
-**What should I do?**
-Most popular? → No, I want to get something more personalized.
-“Editor’s Pick” or “Featured”? → No, too broad. Sometimes I'll find a hit, but most of the time I don't.
-
-
 **Currently, there's no artwork browsing experience that is smart, personalized, and simple.**
 
 ## Meet Arthur. 
