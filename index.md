@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Finding unique and personally curated art can be hard. It doesn't have to be. 
 
-You can use the [editor on GitHub](https://github.com/kelsonreiss/arthur/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Meet Arthur, an ML driven tool that will discover art tailored to your taste, with only a few clicks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Image
 
-### Markdown
+If you want to buy a specific Picasso print, stop reading and go to Art.com or Amazon. These marketplaces have hundreds of thousands of prints. If you want something particular, these will likely have it. The downside is that if you don’t, they’re overwhelming and confusing. What should I do?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Go to most popular? → No, I want to get something more personalized, something that represents my own taste and style
+- Go to “New” or “Editor’s Pick” or “Featured”? → No, too general. The chance that the “Editor’s Pick” of a certain obscure artist is well aligned with what I want is too low. 
 
-```markdown
-Syntax highlighted code block
+**Currently, there's no artwork browsing experience that is smart, personalized, and simple.**
 
-# Header 1
-## Header 2
-### Header 3
+## What's the solution? 
 
-- Bulleted
-- List
+![](image.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kelsonreiss/arthur/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
