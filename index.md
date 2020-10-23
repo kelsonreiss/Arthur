@@ -1,4 +1,4 @@
-# Welcome to Arthur, an AI Art Curator
+# Welcome to Arthur, the AI Art Curator
 
 ## Finding unique and curated art can be hard. It doesn't have to be. 
 
