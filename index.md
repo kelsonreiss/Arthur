@@ -1,17 +1,26 @@
-# Finding unique and personally curated art can be hard. It doesn't have to be. 
+# Finding unique and curated art can be hard. It doesn't have to be. 
+
+![pexels-daria-shevtsova-3597326](https://user-images.githubusercontent.com/24867764/96948211-f18c7d00-1499-11eb-9027-9fed21ab8711.jpg)
 
 ## Meet Arthur, an ML driven tool that will discover art tailored to your taste, with only a few clicks.
 
-# Image
+If you want to buy a specific Picasso print, stop reading and go to Art.com or Amazon, marketplaces have hundreds of thousands of prints. If you want something particular, these will likely have it. The downside is that if you don’t, they can be overwhelming. 
 
-If you want to buy a specific Picasso print, stop reading and go to Art.com or Amazon. These marketplaces have hundreds of thousands of prints. If you want something particular, these will likely have it. The downside is that if you don’t, they’re overwhelming and confusing. What should I do?
-
+What should I do?
 - Go to most popular? → No, I want to get something more personalized, something that represents my own taste and style
-- Go to “New” or “Editor’s Pick” or “Featured”? → No, too general. The chance that the “Editor’s Pick” of a certain obscure artist is well aligned with what I want is too low. 
+- Go to “Editor’s Pick” or “Featured”? → No, too broad. Sometimes I'll find something interesting, but most of the time I don't.
 
 **Currently, there's no artwork browsing experience that is smart, personalized, and simple.**
 
 ## What's the solution? 
+We'll show you 8 different pairs of artwork. Each time, you click which one you like better. Our ML model will then suggest a few pieces you might like!
 
-![](image.png)
+![landing page](https://user-images.githubusercontent.com/24867764/96947226-7a55e980-1497-11eb-8053-1f58782e64ab.png)   |  ![sample flow](https://user-images.githubusercontent.com/24867764/96947268-935e9a80-1497-11eb-90ea-6365f249f24b.png) | ![suggestions](https://user-images.githubusercontent.com/24867764/96947282-9b1e3f00-1497-11eb-8d41-93bf9fe1945e.png)
+:-------------------------:|:-------------------------:|:-------------------------:
+
+### You might enjoy Arthur if you like
+- cool art
+- Spotify's Discover Weekly playlist
+- Buzzfeed quizzes
+- Machine Learning
 
