@@ -20,8 +20,14 @@ Go to “Editor’s Pick” or “Featured”? → No, too broad. Sometimes I'll
 ## What's the solution? 
 We'll show you 8 different pairs of artwork. Each time, you click which one you like better. Our ML model will then suggest a few pieces you might like!
 
-![New Wireframe 1 copy 2](https://user-images.githubusercontent.com/24867764/96949828-ab391d00-149d-11eb-8606-7a71d51e2d6b.png)
-![New Wireframe 1](https://user-images.githubusercontent.com/24867764/96949946-f81cf380-149d-11eb-8820-21e06a16d3b2.png) ![New Wireframe 1 copy](https://user-images.githubusercontent.com/24867764/96949941-f5220300-149d-11eb-8e65-f4adbb350222.png) 
+### _Mock Ups_
+
+![Landing Page](https://user-images.githubusercontent.com/24867764/96951241-e7ba4800-14a0-11eb-8d1c-1490f1b5e597.png)
+
+![Art Picker](https://user-images.githubusercontent.com/24867764/96951265-f30d7380-14a0-11eb-91fe-2e55f23a48f6.png)
+
+![Suggestions](https://user-images.githubusercontent.com/24867764/96951278-f7d22780-14a0-11eb-91db-5fb1fe1e8022.png)
+
 
 ### Use Arthur if you like ...
 - cool art
@@ -38,7 +44,7 @@ _Note: the only email you'll ever get from us is when Arthur is ready to use :)_
     Your email:
     <input type="email" name="_replyto">
   <input type="submit" value="Send">
-</form>
+
 
 
 
