@@ -16,21 +16,20 @@
 
 ![pexels-daria-shevtsova-3597326](https://user-images.githubusercontent.com/24867764/96948211-f18c7d00-1499-11eb-9027-9fed21ab8711.jpg)
 
-## Meet Arthur, an ML driven tool that will discover art tailored to your taste, with only a few clicks.
 
-If you want to buy a specific Picasso print, stop reading and go to Art.com or Amazon, marketplaces have hundreds of thousands of prints. 
-- If you want something particular, these will likely have it
-- If you don’t, they can be overwhelming. 
+If you want a specific Picasso print, stop reading and go to Art.com or Amazon. 
+
+If not, these marketplaces with 200,000+ pieces can be **overwhelming.**
 
 **What should I do?**
-Go to most popular? → No, I want to get something more personalized, something that represents my own taste and style
-Go to “Editor’s Pick” or “Featured”? → No, too broad. Sometimes I'll find something interesting, but most of the time I don't.
+Most popular? → No, I want to get something more personalized.
+“Editor’s Pick” or “Featured”? → No, too broad. Sometimes I'll find a hit, but most of the time I don't.
 
 
 **Currently, there's no artwork browsing experience that is smart, personalized, and simple.**
 
-## What's the solution? 
-We'll show you 8 different pairs of artwork. Each time, you click which one you like better. Our ML model will then suggest a few pieces you might like!
+## Meet Arthur. 
+We'll show you 8 different pairs of artwork. Each time, you click which one you like better. Our machine learning model will then suggest a few pieces you might like!
 
 ### _Mock Ups_
 
