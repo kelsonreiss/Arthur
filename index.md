@@ -12,6 +12,9 @@ If you want to buy a specific Picasso print, stop reading and go to Art.com or A
 Go to most popular? → No, I want to get something more personalized, something that represents my own taste and style
 Go to “Editor’s Pick” or “Featured”? → No, too broad. Sometimes I'll find something interesting, but most of the time I don't.
 
+![New Wireframe 1 copy 2](https://user-images.githubusercontent.com/24867764/96949828-ab391d00-149d-11eb-8606-7a71d51e2d6b.png)
+![New Wireframe 1](https://user-images.githubusercontent.com/24867764/96949946-f81cf380-149d-11eb-8820-21e06a16d3b2.png) ![New Wireframe 1 copy](https://user-images.githubusercontent.com/24867764/96949941-f5220300-149d-11eb-8e65-f4adbb350222.png) 
+
 **Currently, there's no artwork browsing experience that is smart, personalized, and simple.**
 
 ## What's the solution? 
